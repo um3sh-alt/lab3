@@ -1,0 +1,8 @@
+.bash_history
+.cache/
+.config/
+.vscode/
+__pycache__/
+.gitconfig
+Desktop/
+Downloads/
